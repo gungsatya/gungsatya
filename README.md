@@ -28,9 +28,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-#### VCS
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Sosial Media
 [![Instagram](https://img.shields.io/badge/gung_satya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gung_satya)
