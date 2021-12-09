@@ -38,3 +38,6 @@
 
 ### Sosial Media
 [![Instagram](https://img.shields.io/badge/gung_satya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gung_satya)
+[![Facebook](https://img.shields.io/badge/Igbn_Satya_Wibawa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satya.wibawa)
+[![Twitter](https://img.shields.io/badge/gung_satya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gung_satya)
+
