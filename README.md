@@ -6,7 +6,7 @@
 🚀 Sedang berusaha merintis usaha<br />
 📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 
-### Hal yang sudah dan sedang saya pelajari
+### Hal yang saya pelajari
 
 #### Programming Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
