@@ -1,10 +1,10 @@
 ## Perkenalkan, Saya I Gusti Bagus Ngurah Satya Wibawa 
 
 ### Saya adalah seorang Web Developer
-🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
-🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
-🚀 Sedang berusaha merintis usaha di [Dapur Kode](https://www.dapurkode.com)<br />
-📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
+> 🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
+> 🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
+> 🚀 Sedang berusaha merintis usaha di [Dapur Kode](https://www.dapurkode.com)<br />
+> 📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 
 ### Hal yang saya pelajari
 
