@@ -33,3 +33,6 @@
 
 
 ### Reach me out on [i.g.b.n.satyawibawa@gmail.com](mailto:i.g.b.n.satyawibawa@gmail.com)
+
+### Statistik
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&theme=tokyonight)
