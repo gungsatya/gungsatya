@@ -31,8 +31,7 @@
 [![Facebook](https://img.shields.io/badge/Igbn_Satya_Wibawa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satya.wibawa)
 [![Twitter](https://img.shields.io/badge/gung_satya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gung_satya)
 
-
-### Reach me out on [i.g.b.n.satyawibawa@gmail.com](mailto:i.g.b.n.satyawibawa@gmail.com)
+> Reach me out on [i.g.b.n.satyawibawa@gmail.com](mailto:i.g.b.n.satyawibawa@gmail.com)
 
 ### Statistik
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&layout=compact&theme=buefy&hide_border=true" /> |
