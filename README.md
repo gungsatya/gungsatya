@@ -1,6 +1,7 @@
 <h1 align="center">Hai, saya <b>Satya</b> Wibawa</h1>
 
 <h3 align="center">Saya seorang Website Developer</h3>
+
 > 🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
 > 🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
 > 🚀 Sedang berusaha merintis usaha di [Dapur Kode](https://www.dapurkode.com)<br />
