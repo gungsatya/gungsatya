@@ -7,7 +7,7 @@
 > 📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 
 ### Hal yang saya pelajari
-
+<p align="center">
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +25,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+</p>
 ### Sosial Media
 [![Instagram](https://img.shields.io/badge/gung_satya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gung_satya)
 [![Facebook](https://img.shields.io/badge/Igbn_Satya_Wibawa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satya.wibawa)
