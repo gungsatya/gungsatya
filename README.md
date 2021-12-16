@@ -1,6 +1,6 @@
 <h1 align="center">Hai, saya <b>Satya</b> Wibawa</h1>
 
-<h3 align="center">Saya seorang Website Developer</h3>
+<h2 align="center">Saya seorang Website Developer</h2>
 <p align="center">
   🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
   🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
@@ -8,7 +8,7 @@
   📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 </p>
 
-<h3 align="center">Hal yang saya pelajari</h3>
+<h2 align="center">Hal yang saya pelajari</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
-<h3 align="center">Statistik</h3>
+<h2 align="center">Statistik</h2>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
