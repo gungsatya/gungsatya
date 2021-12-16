@@ -1,4 +1,4 @@
-<h2 align="center">Hai, saya <b>Satya</b> Wibawa</h2>
+<h1 align="center">Hai, saya <b>Satya</b> Wibawa</h1>
 
 <h3 align="center">Saya seorang Website Developer</h3>
 > 🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
