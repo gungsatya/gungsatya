@@ -1,6 +1,6 @@
 <h1 align="center">Hai, saya <b>Satya</b> Wibawa</h1>
 
-<h2 align="center">Saya seorang Website Developer</h2>
+<h3 align="center">Saya seorang Website Developer</h3>
 <p align="center">
   🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
   🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
@@ -8,7 +8,7 @@
   📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 </p>
 
-<h2 align="center">Hal yang saya pelajari</h2>
+<h3 align="center">Hal yang saya pelajari</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
