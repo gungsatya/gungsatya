@@ -6,7 +6,7 @@
 > 🚀 Sedang berusaha merintis usaha di [Dapur Kode](https://www.dapurkode.com)<br />
 > 📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 
-### Hal yang saya pelajari
+<h3 align="center">Hal yang saya pelajari</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -25,13 +25,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap CSS">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
-
-### Sosial Media
-[![Instagram](https://img.shields.io/badge/gung_satya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gung_satya)
-[![Facebook](https://img.shields.io/badge/Igbn_Satya_Wibawa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satya.wibawa)
-[![Twitter](https://img.shields.io/badge/gung_satya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gung_satya)
-
-> Reach me out on [i.g.b.n.satyawibawa@gmail.com](mailto:i.g.b.n.satyawibawa@gmail.com)
 
 ### Statistik
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&layout=compact&theme=buefy&hide_border=true" /> |
