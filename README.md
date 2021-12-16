@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
-<h2 align="center">Statistik</h2>
+<h2 align="center">STATISTIK</h2>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
