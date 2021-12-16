@@ -1,6 +1,6 @@
-## Perkenalkan, Saya I Gusti Bagus Ngurah Satya Wibawa 
+<h2 align="center">Hai, saya <b>Satya</b> Wibawa</h2>
 
-### Saya adalah seorang Web Developer
+<h3 align="center">Saya seorang Website Developer</h3>
 > 🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
 > 🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
 > 🚀 Sedang berusaha merintis usaha di [Dapur Kode](https://www.dapurkode.com)<br />
@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
-### Statistik
+<h3 align="center">Statistik</h3>
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungsatya&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
