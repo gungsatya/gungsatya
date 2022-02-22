@@ -3,7 +3,7 @@
 <h3 align="center">Saya seorang Website Developer</h3>
 <p align="center">
   🎓 Lulusan Sarjana Komputer (Jurusan Teknologi Informasi - Bidang Manajemen Data dan Informasi)<br />
-  🏛 Saat ini bekerja di sebuah Perusahaan IT<br />
+  🏛 Saat ini bekerja sebagai programmer di <a href="https://www.linkedin.com/company/pt.-sigma-cipta-caraka">Telkomsigma</a><br />
   🚀 Sedang berusaha merintis usaha di <a href="https://www.dapurkode.com">Dapur Kode</a><br />
   📌 Selalu menginginkan ilmu baru dan cara pandang yang baru.<br />
 </p>
