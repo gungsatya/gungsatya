@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TelkomSigma](https://www.linkedin.com/company/pt.-sigma-cipta-caraka)
 
-- 🌱 I’m currently learning **React, Vanilla JS, and front-end tools and utilities**
+- 🌱 I’m currently learning **React, Vanilla JS, front-end tools and utilities**
 
 - 👨‍💻 All of my projects are available at [https://gungsatya.github.io/projects](https://gungsatya.github.io/projects)
 
