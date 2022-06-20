@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gung_satya" target="blank"><img src="https://img.shields.io/twitter/follow/gung_satya?logo=twitter&style=for-the-badge" alt="gung_satya" /></a> </p>
 
-- 🔭 I’m currently working on [TelkomSigma](https://www.linkedin.com/company/pt.-sigma-cipta-caraka)
+- 🔭 I’m currently working on [TelkomSigma](https://www.linkedin.com/company/pt.-sigma-cipta-caraka) and [DapurKode](https://www.dapurkode.com)
 
 - 🌱 I’m currently learning **React, Vanilla JS, front-end tools and utilities**
 
