@@ -36,6 +36,3 @@
 
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gungsatya&show_icons=true&locale=en&layout=compact" alt="gungsatya" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gungsatya&show_icons=true&locale=en" alt="gungsatya" /> |
 | ------------- | ------------- |
-
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gungsatya&" alt="gungsatya" /> |
-| -------------  |
