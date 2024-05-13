@@ -4,14 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gungsatya&label=Profile%20views&color=0e75b6&style=flat" alt="gungsatya" /> </p>
 
 
-
 - 🔭 I’m currently working on [TelkomSigma](https://www.linkedin.com/company/pt.-sigma-cipta-caraka)
 
-- 🌱 I’m currently learning **React, Flutter, Vanilla JS, front-end tools and utilities**
-
-- 👨‍💻 All of my projects are available at [https://gungsatya.github.io/projects](https://gungsatya.github.io/projects)
-
-- 📝 I regularly write articles on [https://gungsatya.github.io/blog](https://gungsatya.github.io/blog)
+- 🌱 I’m currently learning **React, VueJS, Flutter, Vanilla JS, front-end tools and utilities**
 
 - 📫 How to reach me **i.g.b.n.satyawibawa@gmail.com**
 
