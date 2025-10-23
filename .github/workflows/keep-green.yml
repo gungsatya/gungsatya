@@ -1,0 +1,27 @@
+name: Keep GitHub Green
+
+on:
+  schedule:
+    # 16:30 UTC ≈ 00:30 WITA (Asia/Makassar, UTC+8)
+    - cron: "30 16 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  keep-green:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write timestamp
+        run: |
+          mkdir -p .github
+          echo "Last run (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')" > .github/KEEPALIVE
+
+      - name: Auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: keep green [skip ci]"
+          file_pattern: ".github/KEEPALIVE"
